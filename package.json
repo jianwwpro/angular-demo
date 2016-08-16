@@ -1,0 +1,17 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "eeee",
+    "prestart": "npm install",
+    "start": "http-server -p 9091"
+  },
+  "author": "",
+  "license": "ISC"
+}
